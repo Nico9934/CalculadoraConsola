@@ -1,4 +1,4 @@
-![Caratula del proyecto de bingo](/Calculadora.png)
+![Caratula del proyecto de calculadora](/CalculadoraConsola/Calculadora.png)
 
 
 # 🎮 Calculadora de Consola 🎮
